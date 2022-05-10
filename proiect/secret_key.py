@@ -1,0 +1,1 @@
+SECRET_KEY_VALUE = 'django-insecure-htgaadr2@ax+lt#8vb5^(appfly3@l0))fj22xu@&_ln1em9%l'
